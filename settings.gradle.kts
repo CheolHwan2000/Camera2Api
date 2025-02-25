@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Camera2Api"
 include(":app")
- 
+include(":data")
+include(":domain")
+include(":presentation")
